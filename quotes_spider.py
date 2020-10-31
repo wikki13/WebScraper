@@ -1,6 +1,6 @@
 import scrapy
 
-## Vicky
+## Vickyc v
 class QuotesSpider(scrapy.Spider):
     name = 'quotes'
     start_urls = [
